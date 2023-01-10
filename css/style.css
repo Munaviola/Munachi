@@ -1,0 +1,10 @@
+@media screen and (min-width : 480px){
+    #projects{  
+        background-color:red;
+        color: blue;
+    }
+  }
+  #welcome-section{
+    height: 200px;
+    background-color: blueviolet;
+  }
